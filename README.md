@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 My namae is Guilherme, i'm developer 4 years ago.
+- 🔭 My name is Guilherme, i'm developer 4 years ago.
 
 <div>
   <a href="https://beacons.ai/guuiicode">
