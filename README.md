@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Meu nome é Guilherme, sou desenvolvedor fullstack há 4 anos.
+- 🔭 My namae is Guilherme, i'm developer 4 years ago.
 
 <div>
   <a href="https://beacons.ai/guuiicode">
